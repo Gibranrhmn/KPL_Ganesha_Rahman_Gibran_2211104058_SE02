@@ -1,0 +1,26 @@
+{
+    "student": {
+      "name": "Ahmad Fadhil"
+    },
+    "lecturerCode": "D123",
+    "courses": [
+      {
+        "courseCode": "IF101",
+        "lecturerCode": "DAP",
+        "lectureName": "Dr. Andi Prasetyo",
+        "courseName": "Pemrograman Dasar"
+      },
+      {
+        "courseCode": "IF102",
+        "lecturerCode": "DIS",
+        "lectureName": "Dr. Indah Sari",
+        "courseName": "Struktur Data"
+      },
+      {
+        "courseCode": "IF103",
+        "lecturerCode": "DPA",
+        "lectureName": "Dr. Putu Ari",
+        "courseName": "Algoritma Pemrograman"
+      }
+    ]
+  }
